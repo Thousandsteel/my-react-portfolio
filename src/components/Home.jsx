@@ -17,7 +17,7 @@ function Home() {
           </p>
         </div>
         <div className="profile-picture">
-          <img src="../assets/images/prof2.jfif" alt="Temitope" />
+          <img src="/assets/images/prof2.jfif" alt="Temitope" />
         </div>
       </div>
     </section>
